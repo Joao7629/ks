@@ -209,6 +209,9 @@ i {
   .sobre-content img {
     margin-left: 100px;
   }
+  .sobre-content .sobre-descriçao h2 {
+    padding-left: 90px;
+  }
 }
 .serviços {
   background-color: #FFF;
@@ -273,10 +276,10 @@ i {
 
 .haircut-info button {
   color: #FFF;
-  background-color: #56c850;
+  background-color: rgba(255, 0, 0, 0.822);
   padding: 4px 8px;
-  border-radius: 4px;
-  border: 0;
+  border-radius: 14px;
+  border: 10;
   cursor: default;
 }
 
